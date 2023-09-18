@@ -1,4 +1,4 @@
-package com.ydmins.LoginBase3.domain;
+package com.ydmins.LoginBase3.domain.member;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

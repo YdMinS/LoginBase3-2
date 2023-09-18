@@ -1,5 +1,6 @@
-package com.ydmins.LoginBase3.domain;
+package com.ydmins.LoginBase3.domain.member;
 
+import com.ydmins.LoginBase3.domain.member.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
