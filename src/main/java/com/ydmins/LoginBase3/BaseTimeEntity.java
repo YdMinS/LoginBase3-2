@@ -1,4 +1,4 @@
-package com.ydmins.LoginBase3.domain;
+package com.ydmins.LoginBase3;
 
 
 import jakarta.persistence.EntityListeners;
